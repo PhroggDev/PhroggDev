@@ -6,6 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on [TryHackMe](https://tryhackme.com)
+![tryhackme stats](https://github.com/PhroggDev/THM_Rooms/raw/master/assets/thm_propic.png)
 - 🌱 I’m currently learning too many things to enumerate in a README
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
