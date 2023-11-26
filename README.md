@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m probably working to solve a room on [TryHackMe](https://tryhackme.com)
+- 🔭 I might be working to solve a room on [TryHackMe](https://tryhackme.com)
 - ![tryhackme stats](https://tryhackme-badges.s3.amazonaws.com/PhroggDev.png)
 - 🌱 I’m currently learning too many things to enumerate in a README
 <!-- - 👯 I’m looking to collaborate on ...
